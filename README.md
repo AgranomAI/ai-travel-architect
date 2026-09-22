@@ -27,7 +27,7 @@ The goal is simple:
 
 ### 1. Copy the prompt
 
-Open [`travel-architect.md`](./travel-architect.md) and copy the entire prompt.
+Open [`travel-architect.md`](./travel-architect.md) and copy the entire prompt. Or simply download entire file. 
 
 ### 2. Paste it into your LLM
 
